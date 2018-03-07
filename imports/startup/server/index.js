@@ -1,1 +1,4 @@
-console.log('it twerks');
+// import './schema';
+import { getAnime } from '../../api/rest_api';
+
+getAnime();
